@@ -1,0 +1,5 @@
+bs4==0.0.1
+rasa==1.7.0
+requests==2.23.0
+sklearn-crfsuite==0.3.6
+gunicorn==19.9.0
